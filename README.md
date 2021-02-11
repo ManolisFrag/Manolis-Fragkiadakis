@@ -55,8 +55,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 - Lecturer: Information Visualization and the Humanities (2020)
 - Teaching assistant: Hacking the Humanities (2019)
-- Teaching assistant: Information Visualization and the Humanities (2019)
-- Teaching assistant: Information Visualization and the Humanities (2018)
+- Teaching assistant: Information Visualization and the Humanities (2018 - 2019)
 
 ## Academic history
 
