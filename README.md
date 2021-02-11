@@ -64,3 +64,7 @@ Room number T0.10
 - PhD Data Science, Digital Humanities 2017 - present
 - MSc Media Technology, Leiden University 2014 - 2016 
 - BSc Digital Systems, Major: e-Services, University of Piraeus 2007-2013 
+
+# Videos
+- [Manual Activation Classifier - Video Lecture](https://www.youtube.com/watch?v=5fbd97o5CcQ)
+- [Find the sign - Search functionality for sign language dictionaries](https://www.youtube.com/watch?v=M_qQHkR2Br0) 
