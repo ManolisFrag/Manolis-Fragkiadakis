@@ -1,6 +1,3 @@
-# Manolis Fragkiadakis
-PhD at Leiden University
-
 ## Background
 
 I am part of the “[Exploring new methods in comparing sign language corpora](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/projects/nyst)” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
