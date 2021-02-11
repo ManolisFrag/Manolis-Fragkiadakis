@@ -37,7 +37,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 # Contact
 
-    m.fragkiadakis at hum.leidenuniv.nl
+    <u>m.fragkiadakis</u> at <u>hum.leidenuniv.nl</u>
     P.J. Veth
     Nonnensteeg 1-3
     2311 VJ Leiden
