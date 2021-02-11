@@ -35,7 +35,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Towards a User-Friendly Tool for Automated Sign Annotation. Poster session presented at: [TISLR](https://llfp.hse.ru/data/2019/11/05/1531008202/conference_handbook_TISLR13.pdf) 2019 conference
 
-# Contact
+## Contact
 
     m.fragkiadakis at hum.leidenuniv.nl
     P.J. Veth
@@ -43,24 +43,24 @@ The goal of this project is to innovate some of the most widely used tools in th
     2311 VJ Leiden
     Room number T0.10
 
-# News
+## News
 
 - [https://www.universiteitleiden.nl/en/news/2019/06/detecting-and-comparing-sign-languages](https://www.universiteitleiden.nl/en/news/2019/06/detecting-and-comparing-sign-languages)
 - [https://www.universiteitleiden.nl/en/news/2017/05/lucdh-welcomes-new-phd-candidates](https://www.universiteitleiden.nl/en/news/2017/05/lucdh-welcomes-new-phd-candidates)
 
-# Teaching
+## Teaching
 
 - Lecturer: Information Visualization and the Humanities (2020)
 - Teaching assistant: Hacking the Humanities (2019)
 - Teaching assistant: Information Visualization and the Humanities (2019)
 - Teaching assistant: Information Visualization and the Humanities (2018)
 
-# Academic history
+## Academic history
 
 - PhD Data Science, Digital Humanities 2017 - present
 - MSc Media Technology, Leiden University 2014 - 2016 
 - BSc Digital Systems, Major: e-Services, University of Piraeus 2007-2013 
 
-# Videos
+## Videos
 - [Manual Activation Classifier - Video Lecture](https://www.youtube.com/watch?v=5fbd97o5CcQ)
 - [Find the sign - Search functionality for sign language dictionaries](https://www.youtube.com/watch?v=M_qQHkR2Br0) 
