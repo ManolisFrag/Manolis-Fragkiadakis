@@ -32,8 +32,11 @@ The goal of this project is to innovate some of the most widely used tools in th
     - Manolis Fragkiadakis and Victoria Nyst. [Measuring Variation in African Sign Languages: a Data Driven Approach](https://2018.dhbenelux.org/wp-content/uploads/sites/8/2018/05/Manolis-Fragkiadakis_Measuring-Variation-in-African-Sign-Languages_DHBenelux2018.pdf). Presented at the DH Benelux 2018
 
 ### Other scientific contributions
+- 2021
+    - Manolis Fragkiadakis, Victoria Nyst, & Marco Nyarko. (2021). Ghanaian Sign Language Lexicon (Version 1.0) [Data set](https://zenodo.org/record/4533753). Zenodo. http://doi.org/10.5281/zenodo.4533753
 
-- Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Towards a User-Friendly Tool for Automated Sign Annotation. Poster session presented at: [TISLR](https://llfp.hse.ru/data/2019/11/05/1531008202/conference_handbook_TISLR13.pdf) 2019 conference
+- 2019 
+    - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Towards a User-Friendly Tool for Automated Sign Annotation. Poster session presented at: [TISLR](https://llfp.hse.ru/data/2019/11/05/1531008202/conference_handbook_TISLR13.pdf) 2019 conference
 
 ## Contact
 
