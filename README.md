@@ -1,8 +1,8 @@
 ## Background
 
-I am part of the “[Exploring new methods in comparing sign language corpora](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/projects/nyst)” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
+I take part in the “[Exploring new methods in comparing sign language corpora](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/projects/nyst)” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
 
-The goal of this project is to innovate some of the most widely used tools in the analysis of signed languages. Furthermore, the project will explore ways in which automated image analysis can be used for semi-automated lemma generation. The functionalities will be developed based on the collection of corpora of four African sign languages that were compiled at Leiden University.
+The goal of this project is to innovate some of the most widely used tools in the analysis of signed languages. The project will explore ways in which automated image analysis can be used for semi-automated lemma generation. The functionalities will be developed based on the collection of corpora of four African sign languages that were compiled at Leiden University.
 
 ## Research interests
 
