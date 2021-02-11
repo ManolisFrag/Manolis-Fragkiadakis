@@ -3,7 +3,7 @@ PhD at Leiden University
 
 ## Background
 
-I am part of the “Exploring new methods in comparing sign language corpora” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
+I am part of the “[Exploring new methods in comparing sign language corpora](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/projects/nyst)” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
 
 The goal of this project is to innovate some of the most widely used tools in the analysis of signed languages. Furthermore, the project will explore ways in which automated image analysis can be used for semi-automated lemma generation. The functionalities will be developed based on the collection of corpora of four African sign languages that were compiled at the Leiden University.
 
@@ -23,7 +23,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 ### Conference proceedings
 
 - 2020
-    - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Signing as Input for a Dictionary Query: Matching Signs Based on Joint Positions of the Dominant Hand. Proceedings of the 9th LREC2020 Workshop on the Representation and Processing of Sign Language, Marseille, 11-16 May 2020, pp 69-74.
+    - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. [Signing as Input for a Dictionary Query: Matching Signs Based on Joint Positions of the Dominant Hand](https://www.sign-lang.uni-hamburg.de/lrec/lrec/pubs/20007.pdf). Proceedings of the 9th LREC2020 Workshop on the Representation and Processing of Sign Language, Marseille, 11-16 May 2020, pp 69-74.
 
 ### Peer-reviewed conference abstracts
 
@@ -32,8 +32,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 - 2019
     - Manolis Fragkiadakis. To Sign or not to Sign: Automated Generation of Annotation Slots for Sign Language Videos using Machine Learning. Presented at DH 2019
 - 2018
-    - Manolis Fragkiadakis and Victoria Nyst. Measuring Variation in African Sign Languages: a Data Driven Approach. Presented at the DH Benelux 2018
-    [https://2018.dhbenelux.org/wp-content/uploads/sites/8/2018/05/Manolis-Fragkiadakis_Measuring-Variation-in-African-Sign-Languages_DHBenelux2018.pdf](https://2018.dhbenelux.org/wp-content/uploads/sites/8/2018/05/Manolis-Fragkiadakis_Measuring-Variation-in-African-Sign-Languages_DHBenelux2018.pdf)
+    - Manolis Fragkiadakis and Victoria Nyst. [Measuring Variation in African Sign Languages: a Data Driven Approach](https://2018.dhbenelux.org/wp-content/uploads/sites/8/2018/05/Manolis-Fragkiadakis_Measuring-Variation-in-African-Sign-Languages_DHBenelux2018.pdf). Presented at the DH Benelux 2018
 
 ### Other scientific contributions
 
@@ -43,7 +42,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 # Contact
 
-[m.fragkiadakis at hum.leidenuniv.nl](mailto:m.fragkiadakis@hum.leidenuniv.nl)
+m.fragkiadakis at hum.leidenuniv.nl
 
 P.J. Veth
 
