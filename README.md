@@ -36,16 +36,18 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 ### Other scientific contributions
 
-- Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Towards a User-Friendly Tool for Automated Sign Annotation
-
-    Poster session presented at: [TISLR](https://llfp.hse.ru/data/2019/11/05/1531008202/conference_handbook_TISLR13.pdf) 2019 conference
+- Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Towards a User-Friendly Tool for Automated Sign Annotation. Poster session presented at: [TISLR](https://llfp.hse.ru/data/2019/11/05/1531008202/conference_handbook_TISLR13.pdf) 2019 conference
 
 # Contact
 
 m.fragkiadakis at hum.leidenuniv.nl
+
 P.J. Veth
+
 Nonnensteeg 1-3
+
 2311 VJ Leiden
+
 Room number T0.10
 
 # News
