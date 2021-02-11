@@ -1,4 +1,3 @@
-# Manolis Fragkiadakis
 PhD at Leiden University
 
 ## Background
