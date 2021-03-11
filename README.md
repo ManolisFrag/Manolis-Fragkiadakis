@@ -15,7 +15,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 ### Journal articles
 
 - 2021
-    - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. Towards a User-Friendly Tool for Automated Sign Annotation: Identification and Annotation of Time Slots, Number of Hands, and Handshape. Digital Humanities Quarterly 15.1 (in production)
+    - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. [Towards a User-Friendly Tool for Automated Sign Annotation: Identification and Annotation of Time Slots, Number of Hands, and Handshape](http://www.digitalhumanities.org/dhq/vol/15/1/000510/000510.html). Digital Humanities Quarterly 15.1
 
 ### Conference proceedings
 
