@@ -23,7 +23,8 @@ The goal of this project is to innovate some of the most widely used tools in th
     - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. [Signing as Input for a Dictionary Query: Matching Signs Based on Joint Positions of the Dominant Hand](https://www.sign-lang.uni-hamburg.de/lrec/lrec/pubs/20007.pdf). Proceedings of the 9th LREC2020 Workshop on the Representation and Processing of Sign Language, Marseille, 11-16 May 2020, pp 69-74.
 
 ### Peer-reviewed conference abstracts
--2021
+
+- 2021
     - Manolis Fragkiadakis. Quantifying variation in movement and location: comparing the lexicons of American and Ghanaian Sign Language. Presented at the African Sign Languages Workshop at WOCAL 10 [doi: 10.17605/OSF.IO/MV2UF](https://osf.io/mv2uf/)
 
 - 2020
