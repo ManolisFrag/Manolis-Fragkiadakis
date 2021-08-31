@@ -19,7 +19,7 @@ The goal of this project is to innovate some of the most widely used tools in th
     - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. [Towards a User-Friendly Tool for Automated Sign Annotation: Identification and Annotation of Time Slots, Number of Hands, and Handshape](http://www.digitalhumanities.org/dhq/vol/15/1/000510/000510.html). Digital Humanities Quarterly 15.1
 
 ### Conference proceedings
--2021
+- 2021
     - Manolis Fragkiadakis and Peter van der Putten. [Sign and Search: Sign Search Functionality for Sign Language Lexica](https://aclanthology.org/2021.mtsummit-at4ssl.3.pdf). In Proceedings of the 1st International Workshop on Automatic Translation for Signed and Spoken Languages (AT4SSL), pp. 23–32.
 
 - 2020
