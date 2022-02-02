@@ -72,3 +72,4 @@ The goal of this project is to innovate some of the most widely used tools in th
 ## Videos
 - [Manual Activation Classifier - Video Lecture](https://www.youtube.com/watch?v=5fbd97o5CcQ)
 - [Find the sign - Search functionality for sign language dictionaries](https://www.youtube.com/watch?v=M_qQHkR2Br0) 
+- [DistSign Tool - Quantify variation in movement and location for Sign Languages](https://www.youtube.com/watch?v=6577FeZ-OeU)
