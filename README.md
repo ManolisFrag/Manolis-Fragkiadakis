@@ -13,7 +13,13 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 ## Publications
 
+### PhD Dissertation
+- 2024
+    - Manolis Fragkiadakis (9 April 2024), Digital tools for sign language research: towards recognition and comparison of lexical signs (Dissertatie. Leiden University Centre for Linguistics (LUCL), Faculty of Humanities, Leiden University) LOT dissertation series no. 666. Amsterdam: LOT. Supervisor(s) and Co-supervisor(s): Mous M.P.G.M., Nyst V.A.S. & Putten P.W.H. van der.
+
 ### Journal articles
+- 2022
+    - Manolis Fragkiadakis, [Assessing an automated tool to quantify variation in movement and location: a case study of American Sign Language and Ghanaian Sign Language](http://hdl.handle.net/1887/3721762), Sign Language Studies 23(1): 98-126.
 
 - 2021
     - Manolis Fragkiadakis, Victoria Nyst and Peter van der Putten. [Towards a User-Friendly Tool for Automated Sign Annotation: Identification and Annotation of Time Slots, Number of Hands, and Handshape](http://www.digitalhumanities.org/dhq/vol/15/1/000510/000510.html). Digital Humanities Quarterly 15.1
