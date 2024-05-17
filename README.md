@@ -1,6 +1,6 @@
 ## Background
 
-I take part in the “[Exploring new methods in comparing sign language corpora](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/projects/nyst)” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
+During my PhD I took part in the “[Exploring new methods in comparing sign language corpora](https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/projects/nyst)” project, a collaboration between the Leiden University Centre for Digital Humanities, Centre for Linguistics and the Data Science Research Programme.
 
 The goal of this project is to innovate some of the most widely used tools in the analysis of signed languages. The project will explore ways in which automated image analysis can be used for semi-automated lemma generation. The functionalities will be developed based on the collection of corpora of four African sign languages that were compiled at Leiden University.
 
@@ -71,7 +71,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 ## Academic history
 
-- PhD Data Science, Digital Humanities 2017 - present
+- PhD Data Science, Digital Humanities 2017 - 2024
 - MSc Media Technology, Leiden University 2014 - 2016 
 - BSc Digital Systems, Major: e-Services, University of Piraeus 2007-2013 
 
